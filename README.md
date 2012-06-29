@@ -10,5 +10,5 @@ Installation
 
 Just copy d2_notepad.lua to your `.rockbox/rocks/apps` directory.
 You can change color themes and keyboard layouts in the top of the file.
-By default, there is tree layouts: en (English), ru (Russian) and compose (Special characters) in two modes: normal and shifted.
+By default, there is three layouts: en (English), ru (Russian) and compose (Special characters) in two modes: normal and shifted.
 
